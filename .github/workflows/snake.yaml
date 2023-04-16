@@ -37,9 +37,6 @@ jobs:
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
       
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v2.2.1
-
 
       # Push the changes
       - name: Push changes
