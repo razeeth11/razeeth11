@@ -1,6 +1,6 @@
 ## Hey, Nice to see you
 
-### 💫 About Me
+### 💫 About Me:
 <br>Hello, I am Abdul Razeeth and I'm a Full Stack Developer. I have a Bachelor's degree in Commerce but having an extensive experience in web development. My expertise lies in developing web applications using HTML, CSS, JavaScript, and related technologies, including React, Node.js, and MongoDB. I am passionate about creating dynamic and friendly user experiences and take great pride in my work.
 
 ### 💻 Things I Code With:
