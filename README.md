@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 👋 Hi there! I'm Abdul Razeeth, a dedicated React developer known for creating fluid user interfaces that captivate users. 🚀 
-With a robust background in web development and proficiency in HTML, CSS, JavaScript, and React, I also possess expertise in complementary technologies such as React Native, Express.js, and MongoDB. I'm deeply committed to crafting dynamic and user-friendly experiences, and I take immense pride in my work. Let's build something extraordinary together!
+With a robust background in web development and proficiency in HTML, CSS, JavaScript, and React, I also possess expertise in complementary technologies such as Express.js, and MongoDB. I'm deeply committed to crafting dynamic and user-friendly experiences, and I take immense pride in my work. Let's build something extraordinary together!
 
 
 ### 🌐 Socials:
