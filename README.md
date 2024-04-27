@@ -21,7 +21,7 @@ I'm deeply committed to crafting dynamic and user-friendly experiences, and I ta
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=razeeth11&label=My%20Visitors&color=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=razeeth11&label=Profile%20Views&color=0&pretty=false" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
