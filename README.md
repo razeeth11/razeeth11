@@ -1,6 +1,9 @@
 ## 💫 About Me:
 👋 Hi, I'm Abdul Razeeth, a Full Stack MERN Developer focused on building high-performance, scalable web apps with MongoDB, Express, React, and Node.js. I’m passionate about crafting seamless, user-centric experiences that drive engagement and elevate digital solutions. Let's connect!
 
+---
+[![](https://visitcount.itsvg.in/api?id=razeeth11&icon=2&color=13)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-razeeth-a02b98261) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/razeeth11) 
@@ -15,7 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=razeeth11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=razeeth11&icon=2&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
